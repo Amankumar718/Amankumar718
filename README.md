@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">Full Stack Developer 🚀 | AI & ML Enthusiast 🤖 | DevOps Explorer ⚙️</h3>
 <img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/3427770a-4f9d-4211-80ce-ba049c980d57" />
 

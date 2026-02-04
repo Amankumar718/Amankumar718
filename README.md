@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">Full Stack Developer 🚀 | AI & ML Enthusiast 🤖 | DevOps Explorer ⚙️</h3>
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/3427770a-4f9d-4211-80ce-ba049c980d57" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/3427770a-4f9d-4211-80ce-ba049c980d57" />
 
 ## 💡 About Me
 - 🔭 I'am Current working on: Smart Health Tracker Website by using AI 

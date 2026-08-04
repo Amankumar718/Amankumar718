@@ -4,8 +4,8 @@
 
 ## 💡 About Me
 - 🔭 I'am Current working on: Smart Health Tracker Website by using AI 
-- 🌱 Learning: AI/ML 
-- 💬 Ask me about: MERN Technology
+- 🌱 Learning: AI 
+- 💬 Ask me about: MERN Technology, Java, DSA
 - ⚡ Fun fact: I love coding at night 🌙
 
 - ## 🚀 Tech Stack
